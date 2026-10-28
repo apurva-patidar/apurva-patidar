@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-IMAGE-FILENAME.png" alt="DevOps Banner" width="100%">
+  <img src="Apurva Patidar DevOps Profile Banner.png" alt="DevOps Banner" width="100%">
 </p># Hi, I'm Apurva Patidar 👋
 
 ### 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast
