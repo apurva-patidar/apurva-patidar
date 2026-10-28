@@ -34,9 +34,7 @@ Practising automated application build and deployment workflows using Jenkins an
 ### 2. Terraform Docker Infrastructure
 Provisioning an Nginx Docker container using Terraform to practise Infrastructure as Code (IaC).
 
-🔗 Add your Terraform repository URL here.
-
----
+🔗[View Repository](https://github.com/apurva-patidar/terraform-docker-task)
 
 ## 📚 Currently Learning
 
